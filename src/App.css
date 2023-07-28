@@ -1,3 +1,26 @@
 .App{
   font-size: xx-large;
 }
+.gender{
+  display: flex;
+}
+.lang{
+  display:flexbox;
+  
+  
+}
+.fn{
+  height: 50px;
+  width: 180px;
+  font-size: 16px;
+}
+.ln{
+  height: 50px;
+  width: 180px;
+  font-size: 16px;
+}
+.age{
+  height: 50px;
+  width: 180px;
+  font-size: 16px;
+}
